@@ -1,0 +1,75 @@
+h1{
+    color: greenyellow;
+    text-align: center;
+}
+
+
+.block_1{
+    background-color: coral;
+    text-align: left;
+    padding: 50px;
+    margin: 100px 50px;
+}
+
+.block_1 p{
+ color: maroon;
+}
+
+.block_1 img{
+    width: 300px;
+    height: 300px;
+}
+
+.block_2 img{
+    width: 200px;
+    height: 200px;
+}
+ 
+.block_2{
+    background-color: fuchsia;
+    margin: 100px 50px 100px;
+    padding: 50px;
+    text-align: right;
+}
+
+.block_1 p{
+    color: black;
+}
+
+.block_3 img{
+    width: 400px;
+}
+
+.block_3{
+    background-color: chartreuse;
+    margin: 100px 50px 100px 50px;
+    padding: 50px;
+    text-align: center;
+}
+
+.block_3 p{
+    color: cornsilk;
+}
+
+
+div{
+    text-align: center;
+}
+
+#youtube{
+    width: 40px;
+    height: 40px;
+}
+
+#instagram{
+    width: 40px;
+    height: 40px;
+}
+
+#telegram{
+    width: 40px;
+    height: 40px;
+}
+ 
+
+
