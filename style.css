@@ -55,6 +55,7 @@ h1{
 
 .block_4{
     text-align: center;
+    border: 1px solid rebeccapurple;
     background-color: ghostwhite;
     margin: 50px 50px;
     padding: 50px;
